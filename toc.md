@@ -1,4 +1,28 @@
 Phase 1: Mathematical foundations + strings/languages
+
+TOC PHASE 1
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Sets                       ✅
+Alphabet                   ✅
+Strings                    ✅
+String length              ✅
+Empty string ε             ✅
+Concatenation              ✅
+String powers              ✅
+Reverse / palindrome       ✅
+Prefix / suffix            ✅
+Substring / subsequence    ✅
+Languages                  ✅
+Σ* and Σ+                  ✅
+Union                      ✅
+Intersection               ✅
+Difference                 ✅
+Language concatenation     ✅
+L*                         ✅
+L+                         ✅
+Language powers            ✅
+
 Phase 2: Regular Expressions
 Phase 3: DFA & NFA
 Phase 4: Regular Languages + properties
