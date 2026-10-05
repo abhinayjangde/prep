@@ -1,5 +1,6 @@
-### probability.statistics.md
+## progress
 
+### Probability.Statistics
 [x] Probability and Statistics 01
 [x] Probability and Statistics 02
 [x] Probability and Statistics 03
@@ -8,8 +9,7 @@
 [x] Probability and Statistics 06
 [ ] Probability and Statistics 07
 
-### progress.single.variable.calculus.md
-
+### Single.Variable.Calculus
 [x] 01 Single Variable Calculus
 [x] 02 Single Variable Calculus
 [ ] 03 Single Variable Calculus
