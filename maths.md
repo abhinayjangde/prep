@@ -11,5 +11,5 @@
 ### progress.single.variable.calculus.md
 
 [x] 01 Single Variable Calculus
-[ ] 02 Single Variable Calculus
+[x] 02 Single Variable Calculus
 [ ] 03 Single Variable Calculus
