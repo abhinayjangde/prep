@@ -13,3 +13,11 @@
 [x] 11_regular_expression 5/10/2026
 [x] 12_regular_expression 6/10/2026
 [x] 13_regular_expression 6/10/2026
+
+
+[x] 01_finite_automata 6/10/2026
+[ ] 02_finite_automata 6/10/2026
+[ ] 03_finite_automata 
+[ ] 04_finite_automata 
+[ ] 05_finite_automata 
+[ ] 05_finite_automata 
