@@ -26,3 +26,8 @@
 [ ] 08_finite_automata 6/10/2026
 [ ] 09_finite_automata 6/10/2026
 [ ] 10_finite_automata 6/10/2026
+
+
+### 3.dfa-ndfa
+
+[x] 01_dfa_vs_nfa 
