@@ -1,7 +1,7 @@
 ER‐model [x]
 Relational model [x]
 relational algebra [x]
-tuple calculus
+tuple calculus [x]
 SQL
 Integrity constraints
 normal forms
