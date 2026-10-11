@@ -1,4 +1,4 @@
 ### Quantitative Aptitude Progress
 
 [x] Calendar
-[ ] Clock
+[x] Clock 
