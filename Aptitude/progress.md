@@ -8,3 +8,7 @@
 ### Spatial Aptitude
 
 [x] Formation of Image: Rotation 12/10/2026
+
+### Verbal Aptitude
+
+[x] Part of Speech 12/10/2026
