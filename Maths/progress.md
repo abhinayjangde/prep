@@ -11,5 +11,5 @@
 
 ### Single.Variable.Calculus
 [x] 01 Single Variable Calculus 5/10/2026
-[x] 02 Single Variable Calculus 5/10/2026
+[x] 02 Single Variable Calculus 11/10/2026
 [ ] 03 Single Variable Calculus
