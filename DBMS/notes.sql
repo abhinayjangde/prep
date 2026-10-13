@@ -1,0 +1,6 @@
+-- ? Start a postgres server
+-- ! docker run -d --name sql_cb -e POSTGRES_PASSWORD=postgres -p 5432:5432 postgres:18.4
+-- ? Enter psql terminal
+-- ! docker exec -it sql_cb psql -U postgres
+-- ? Create a database
+-- ! CREATE DATABASE ecom_db;

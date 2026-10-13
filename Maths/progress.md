@@ -12,7 +12,7 @@
 ### Single.Variable.Calculus
 [x] 01 Single Variable Calculus 5/10/2026
 [x] 02 Single Variable Calculus 11/10/2026 limit
-[ ] 03 Single Variable Calculus [30min]
+[ ] 03 Single Variable Calculus [40min]
 
 
 ### linear.algebra
