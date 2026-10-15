@@ -6,7 +6,7 @@
 [x] Probability and Statistics 03 2/10/2026
 [x] Probability and Statistics 04 2/10/2026
 [x] Probability and Statistics 05 3/10/2026
-[x] Probability and Statistics 06 3/10/2026
+[x] Probability and Statistics 06 3/10/2026 [51min]
 [ ] Probability and Statistics 07
 
 ### Single.Variable.Calculus

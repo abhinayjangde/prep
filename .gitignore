@@ -1,12 +1,17 @@
-
 # videos
 /TOC/**/*.mp4
 /CD/**/*.mp4
 /DL/**/*.mp4
-/Maths/*/*.mp4
+
+/Maths/**/*.mp4
+/Maths/**/*.pdf
+
 /Aptitude/*/*.mp4
+/Aptitude/*/*.pdf
+
 /COA/**/*.mp4
 
 # PDFs
 
 /exclude
+/CS
